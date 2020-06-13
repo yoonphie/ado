@@ -1,0 +1,6 @@
+Coordinates a = (-2,11)
+Coordinatse b = (-13,24)
+Coordinates c = (-5,6)
+Perimetr = 42,55805386436391
+Square = 47,000000000000036
+
