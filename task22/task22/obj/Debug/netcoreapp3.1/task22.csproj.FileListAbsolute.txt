@@ -1,0 +1,11 @@
+C:\Users\Софья\source\repos\task22\task22\bin\Debug\netcoreapp3.1\task22.exe
+C:\Users\Софья\source\repos\task22\task22\bin\Debug\netcoreapp3.1\task22.deps.json
+C:\Users\Софья\source\repos\task22\task22\bin\Debug\netcoreapp3.1\task22.runtimeconfig.json
+C:\Users\Софья\source\repos\task22\task22\bin\Debug\netcoreapp3.1\task22.runtimeconfig.dev.json
+C:\Users\Софья\source\repos\task22\task22\bin\Debug\netcoreapp3.1\task22.dll
+C:\Users\Софья\source\repos\task22\task22\bin\Debug\netcoreapp3.1\task22.pdb
+C:\Users\Софья\source\repos\task22\task22\obj\Debug\netcoreapp3.1\task22.csprojAssemblyReference.cache
+C:\Users\Софья\source\repos\task22\task22\obj\Debug\netcoreapp3.1\task22.AssemblyInfoInputs.cache
+C:\Users\Софья\source\repos\task22\task22\obj\Debug\netcoreapp3.1\task22.AssemblyInfo.cs
+C:\Users\Софья\source\repos\task22\task22\obj\Debug\netcoreapp3.1\task22.dll
+C:\Users\Софья\source\repos\task22\task22\obj\Debug\netcoreapp3.1\task22.pdb
